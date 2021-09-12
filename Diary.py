@@ -22,4 +22,9 @@
 # 
 
 
-# 2.Linear Algebra in Python                    []
+# 2.Linear Algebra CheatSheet                   [*]
+#   2.1 Vectors                                 [*]
+#   2.2 Matrices                                [*] 12/09/21
+#                                   []
+# 
+# 
