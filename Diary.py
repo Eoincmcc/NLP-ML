@@ -21,10 +21,39 @@
 #   Commit Diary and version check              [*]
 # 
 
-
-# 2.Linear Algebra CheatSheet                   [*]
-#   2.1 Vectors                                 [*]
-#   2.2 Matrices                                [*] 12/09/21
-#                                   []
+# Cheat Sheets and basics
+#   11/09/21 
+#   Linear Algebra CheatSheet                   [*]
+#       Vectors                                 [*]
+#       Matrices                                [*]
 # 
+# 
+# Basic ML projects
+#   11/09/21                           
+#   The IRIS Dataset                            []
+#                     []
+# .
+
+
+
+# Model Analysis
+# 12/09/21
+# CORA Analysis
+#   A look at the Multilingual model @https://github.com/AkariAsai/CORA.git
+#   Paper @https://arxiv.org/abs/2107.11976
+#   
+#   Models & Data to be acquired before CORA is run (found in quick start)
+#       tsv file with training data
+#       mGEN model
+#       mDPR model
+#       
+#   14/09/21
+#   CORA's standard quickstart file is set up for linux
+#       re-write for mac run and evaluate    
+# 
+# . 
+
+
+# Next:
+#   Re-organise into notebook style analysis of different models.
 # 
