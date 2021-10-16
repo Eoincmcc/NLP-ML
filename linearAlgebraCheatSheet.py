@@ -69,7 +69,5 @@ mRank = np.linalg.matrix_rank(A)
 print("\nMatrix A rank: \n", mRank)
 
 
-
-
-
+ 
 
