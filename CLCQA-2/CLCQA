@@ -1,0 +1,9 @@
+
+
+def train_retriever(args):
+    """
+    Train the retriever model.
+    """
+    from clcqa.retriever import train_retriever
+    train_retriever(args)
+
